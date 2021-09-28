@@ -3,17 +3,6 @@ this repository belongs to the codes of a famous financial problem in the litera
 
 ![image](https://user-images.githubusercontent.com/56094263/135147623-728e05c3-f11d-4129-9b8a-454b66e857ad.png)
                           
-The return of stock and bond are given by the following table. Please note that the returns were first sampled from unifrom distributions, then reduced with the hierarchichal scenario reduction algorithm.
+The return of stock and bond are given in the book "Introduction to Stochastic Programming: https://link.springer.com/book/10.1007/978-1-4614-0237-4". 
 
-### Stock Return	Bond Return	probability
-### 0	1.807	1.823	0.015
-### 1	1.223	1.015	0.065
-### 2	1.225	1.351	0.16
-### 3	1.677	1.514	0.05
-### 4	1.747	1.941	0.1
-### 5	1.811	1.537	0.16
-### 6	1.522	1.969	0.2
-### 7	1.997	1.911	0.015
-### 8	1.771	1.878	0.01
-### 9	1.441	1.026	0.225
 
